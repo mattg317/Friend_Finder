@@ -1,0 +1,4 @@
+- loop  through each person
+	- at each person find the total difference in the array
+	- if the difference is the new lowest than they are the new leader
+	- at the end of looping through everyone, display the new leader.
